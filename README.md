@@ -15,6 +15,9 @@
 2. MARCO TEORICO
 
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%201.png)
+.. image:: https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%201.png :height: 100px :width: 200 px :scale: 30 % 
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%202.png)
+.. image:: https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%201.png :height: 100px :width: 200 px :scale: 30 % 
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%203.png)
+.. image:: https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%201.png :height: 100px :width: 200 px :scale: 30 % 
 
