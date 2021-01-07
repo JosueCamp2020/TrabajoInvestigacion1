@@ -4,12 +4,12 @@
 
 1.1 OBJETIVOS GENERALES
 
-* Analizar de forma detallada los  teoremas de circuitos y conversiones que existen para poder realizar circuitos electricos.
+* Analizar de forma detallada los  teoremas de circuitos y conversiones que existen para poder realizar circuitos eléctricos.
 
 1.2 OBJETIVOS ESPECIFICOS
 
-*	Analizar a profundidar una fuente de voltaje dc.
-*	Comprender la funcion que cumple una fuente de corriente ideal.
+*	Analizar a profundidad una fuente de voltaje DC.
+*	Comprender la función que cumple una fuente de corriente ideal.
 *	Determinar cual es la función del teorema de Thevenin y el teorema de Norton 
 
 2. MARCO TEORICO
@@ -35,10 +35,10 @@ Al realizar cualquier circuito electrónico es necesario la comprensión de mism
 
 4. CONCLUSIONES
 
-*	Existen teoremas que acopañan a las las leyes de Ohm y las leyes de Kirchhoff que nos permiten sinplificar de manera mas rapida un circuito complicado, estos teoremas son: teorema de Thevenin, teorema de Norton, teorema de transferencia de potencia máxima. Los cuales se encargan de convertir a un circuito complicado en uno mas pequeño y facil de calcular.
-*	Una fuente de voltaje dc es uncomponente escencial en un circuito, este administra la corriente que recorre todo el sistema realizado, el analizarlo es importante por su delicado sistema y debido a que una fuente de voltaje tambien presenta una resistencia interna la cual si es cero podemos llamarla como fuente de voltaje ideal, a pesar de que no existen fuentes de voltaje ideales las fuentes de potencia regulada se aproximan a la situación ideal cuando funcionan dentro de la corriente de salida especificada. 
-*	Una fuente de corriente ideal es la que nos suministra una intensidad constante independientemente del valor de la tensión en sus bornes. En la realidad esto no se cumple y una fuente de corriente real estará constituida, por una fuente de corrienteideal con una resistencia interna conectada en paralelo
-*	El Teorema de Thévenin y Norton nos permiten simplificar el análisis de circuitos más complejos en un circuito equivalente simple, por medio de la sustitución de una fuente y una resistencia.
+* Existen teoremas que acompañan a las leyes de Ohm y las leyes de Kirchhoff que nos permiten simplificar de manera más rápida un circuito complicado, estos teoremas son: teorema de Thevenin, teorema de Norton, teorema de transferencia de potencia máxima. Los cuales se encargan de convertir a un circuito complicado en uno más pequeño y fácil de calcular.
+*	Una fuente de voltaje DC es un componente esencial en un circuito, este administra la corriente que recorre todo el sistema realizado, el analizarlo es importante por su delicado sistema y debido a que una fuente de voltaje también presenta una resistencia interna la cual si es cero podemos llamarla como fuente de voltaje ideal, a pesar de que no existen fuentes de voltaje ideales las fuentes de potencia regulada se aproximan a la situación ideal cuando funcionan dentro de la corriente de salida especificada. 
+*	Una fuente de corriente ideal es la que nos suministra una intensidad constante independientemente del valor de la tensión en sus bornes. En la realidad esto no se cumple y una fuente de corriente real estará constituida, por una fuente de corriente ideal con una resistencia interna conectada en paralelo
+*	El Teorema de Thevenin y Norton nos permiten simplificar el análisis de circuitos más complejos en un circuito equivalente simple, por medio de la sustitución de una fuente y una resistencia.
 
 5.	BIBLIOGRAFIA
 
