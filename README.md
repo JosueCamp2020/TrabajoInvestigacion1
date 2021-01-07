@@ -28,6 +28,8 @@
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/6.png)
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/7.png)
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/8.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/9.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/10.png)
 
 3. EXPLICACIÓN
 
