@@ -1,2 +1,2 @@
-# TrabajoInvestigacion1
-Capitulo8
+# Trabajo Investigacion 
+# Teorema De Circuitos Y Conversiones
