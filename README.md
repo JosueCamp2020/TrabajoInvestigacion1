@@ -18,6 +18,17 @@
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%202.png)
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%203.png)
 
+3. DIAGRAMAS/EJERCICIOS
+
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/1.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/2.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/3.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/4.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/5.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/6.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/7.png)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/8.png)
+
 3. EXPLICACIÓN
 
 Al realizar cualquier circuito electronico es necesario la comprención de mismo ya que al tener un panorama claro del mismo es mas facil no cometer errores en el mismo, las fuentes de voltaje y corriente son muy importantes debido a que son fundamentales para cualquier circuito y por eso es importante su analisis y comprención, al tener un elemento delicado en el uso de la electronica el manejo correcto es fundamntal por ello es necesario su prebia comprención de como es su funcionamiento para poder realizar su manejo.
@@ -36,12 +47,3 @@ Existen circuitos de todo tipo, las leyes de Ohm y las leyes de Kirchhoff nos ay
 * McAllister, W. (06 de 05 de 2017). khanacademy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-delta-wye-resistor-networks
 * tutorialesdeelectronicabasica.blogspot. (20 de 03 de 2018). Tutoriales de electrónica básica. Obtenido de http://tutorialesdeelectronicabasica.blogspot.com/2019/07/teorema-de-transferencia-de-potencia.html
 * Floyd, T. L. ( 2007). Principios de circuitos eléctricos (Vol. Octava edición). México: Pearson Educación.
-
-
-
-
-
-
-
-
-
