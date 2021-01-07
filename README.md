@@ -19,6 +19,7 @@
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion1/blob/main/Imagenes/Imagen%203.png)
 
 3. EXPLICACIÓN
+
 Al realizar cualquier circuito electronico es necesario la comprención de mismo ya que al tener un panorama claro del mismo es mas facil no cometer errores en el mismo, las fuentes de voltaje y corriente son muy importantes debido a que son fundamentales para cualquier circuito y por eso es importante su analisis y comprención, al tener un elemento delicado en el uso de la electronica el manejo correcto es fundamntal por ello es necesario su prebia comprención de como es su funcionamiento para poder realizar su manejo.
 Existen circuitos de todo tipo, las leyes de Ohm y las leyes de Kirchhoff nos ayudan a pronder los mismos pero existen circuitos mucho mas complejos que son dificiles de analizar y comprender, para estos circuitos es necesario el uso de otros teoremas que nos facilitan la comprención de los mismos, teoremas como; teorema de Thevenin, teorema de Norton, teorema de transferencia de potencia máxima. Cabe recalcar que estos teoremas no remplazan a las leyes de Ohm y las leyes de Kirchhoff (Bases fundamentales de los circuitos), mas bien acompañan a estas leyes y ayuda a sinplificar los circuitos complicados para que se pueda trabajar de una manera mas sencilla y facil de comprender.
 
